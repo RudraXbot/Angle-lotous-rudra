@@ -13,7 +13,7 @@ answer.extend(
         InlineQueryResultArticle(
             title="Rᴇsᴜᴍᴇ",
             description=f"ʀᴇsᴜᴍᴇ ᴛʜᴇ ᴩᴀᴜsᴇᴅ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://te.legra.ph/file/df8fa2868f8a277718a47.jpg",
+            thumb_url="https://te.legra.ph/file/e740d9b7779f59d2f48a9.jpg",
             input_message_content=InputTextMessageContent("/resume"),
         ),
         InlineQueryResultArticle(
