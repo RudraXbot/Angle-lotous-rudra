@@ -7,11 +7,12 @@ from config import LOGGER_ID as LOG_GROUP_ID
 from BrandrdXMusic import app  
 
 photo = [
-    "https://te.legra.ph/file/758a5cf4598f061f25963.jpg",
-    "https://te.legra.ph/file/30a1dc870bd1a485e3567.jpg",
-    "https://te.legra.ph/file/d585beb2a6b3f553299d2.jpg",
-    "https://te.legra.ph/file/7df9e128dd261de2afd6b.jpg",
-    "https://te.legra.ph/file/f60ebb75ad6f2786efa4e.jpg",
+    "https://te.legra.ph/file/e6a4e00b77fab6d9d79b9.jpg",
+    "https://te.legra.ph/file/23577a4b43317b1cd994b.jpg",
+    "https://te.legra.ph/file/7796f70c79a0843b3d243.jpg",
+    "https://te.legra.ph/file/267c64afc80c19d59e395.jpg",
+    "https://te.legra.ph/file/4c22371c0d978fb4c9b08.jpg",
+    "https://te.legra.ph/file/46952f9f2ad026db4c75d.jpg",
 ]
 
 
