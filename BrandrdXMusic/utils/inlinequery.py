@@ -7,7 +7,7 @@ answer.extend(
         InlineQueryResultArticle(
             title="Pᴀᴜsᴇ",
             description=f"ᴩᴀᴜsᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://te.legra.ph/file/df8fa2868f8a277718a47.jpg",
+            thumb_url="https://te.legra.ph/file/9407b8cd36d15df19f673.jpg",
             input_message_content=InputTextMessageContent("/pause"),
         ),
         InlineQueryResultArticle(
