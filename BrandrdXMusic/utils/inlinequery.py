@@ -25,19 +25,19 @@ answer.extend(
         InlineQueryResultArticle(
             title="Eɴᴅ",
             description="ᴇɴᴅ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://te.legra.ph/file/df8fa2868f8a277718a47.jpg",
+            thumb_url="https://te.legra.ph/file/0b4a292786fbf24c4a105.jpg",
             input_message_content=InputTextMessageContent("/end"),
         ),
         InlineQueryResultArticle(
             title="Sʜᴜғғʟᴇ",
             description="sʜᴜғғʟᴇ ᴛʜᴇ ǫᴜᴇᴜᴇᴅ sᴏɴɢs ɪɴ ᴩʟᴀʏʟɪsᴛ.",
-            thumb_url="https://te.legra.ph/file/df8fa2868f8a277718a47.jpg",
+            thumb_url="https://te.legra.ph/file/8aec920a114d742b58737.jpg",
             input_message_content=InputTextMessageContent("/shuffle"),
         ),
         InlineQueryResultArticle(
             title="Lᴏᴏᴩ",
             description="ʟᴏᴏᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ ᴛʀᴀᴄᴋ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://te.legra.ph/file/df8fa2868f8a277718a47.jpg",
+            thumb_url="https://te.legra.ph/file/80982f9e1cda82e632e24.jpg",
             input_message_content=InputTextMessageContent("/loop 3"),
         ),
     ]
