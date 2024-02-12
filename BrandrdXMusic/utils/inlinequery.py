@@ -19,7 +19,7 @@ answer.extend(
         InlineQueryResultArticle(
             title="Sᴋɪᴩ",
             description=f"sᴋɪᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ ᴀɴᴅ ᴍᴏᴠᴇs ᴛᴏ ᴛʜᴇ ɴᴇxᴛ sᴛʀᴇᴀᴍ.",
-            thumb_url="https://te.legra.ph/file/df8fa2868f8a277718a47.jpg",
+            thumb_url="https://te.legra.ph/file/d1f92937c7a4231532e9d.jpg",
             input_message_content=InputTextMessageContent("/skip"),
         ),
         InlineQueryResultArticle(
