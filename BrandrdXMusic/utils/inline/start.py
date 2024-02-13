@@ -8,7 +8,7 @@ def start_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["𝔸𝒹𝒹 𝕄ℯ 𝔹ℯ𝒷"], url=f"https://t.me/{app.username}?startgroup=true"
+                text=_["S_S_B_1"], url=f"https://t.me/{app.username}?startgroup=true"
             ),
             InlineKeyboardButton(text=_["ɢʀᴏᴜᴘ"], url=config.SUPPORT_CHAT),
         ],
@@ -20,7 +20,7 @@ def private_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["𝔸𝒹𝒹 𝕄𝓮𝓮 𝔹ℯ𝒷"],
+                text=_["S_S_B_2"],
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
